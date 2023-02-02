@@ -3,7 +3,7 @@
 https://dl.google.com/android/adt/adt-bundle-windows-x86_64-20140702.zip?utm_source=androiddevtools&utm_medium=website
 
 ## android studio
-* installer: https://dl.google.com/dl/android/studio/install/2022.1.1.19/android-studio-ide-2022.1.1.19-windows.exe
+* installer: https://dl.google.com/dl/android/studio/install/2022.1.1.19/android-studio-2022.1.1.19-windows.exe
 * archieves: https://developer.android.com/studio/archive  
 
 ## gradle(can be install by android-studio)

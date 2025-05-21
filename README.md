@@ -13,7 +13,7 @@ Installer:
 - https://dl.google.com/dl/android/studio/install/2025.1.1.9/android-studio-2025.1.1.9-mac_arm.dmg
 - https://dl.google.com/dl/android/studio/ide-zips/2024.3.2.14/android-studio-2024.3.2.14-linux.tar.gz
 - https://dl.google.com/dl/android/studio/install/2025.1.1.19/android-studio-2025.1.1.19-windows.exe
-- https://dl.google.com/dl/android/studio/ide-zips/2025.1.1.19/android-studio-2025.1.1.19-windows.zip
+- https://dl.google.com/dl/android/studio/ide-zips/2024.3.2.14/android-studio-2025.1.1.19-windows.zip
 
 Archieves: https://developer.android.com/studio/archive  
 

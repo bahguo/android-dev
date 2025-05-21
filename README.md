@@ -1,5 +1,5 @@
 # android-dev
-## adt-bundle-windows
+## adt-bundle:
 - https://dl.google.com/android/adt/adt-bundle-mac-x86_64-20140702.zip
 - https://dl.google.com/android/adt/adt-bundle-linux-x86-20140702.zip
 - https://dl.google.com/android/adt/adt-bundle-linux-x86_64-20140702.zip
